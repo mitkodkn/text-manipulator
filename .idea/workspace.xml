@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="440ce36f-b133-4732-aaeb-c297eee2adc1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kTZIdw3SWHkIR2MOHDuCDIsnoy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="bg.tusofia.Main" />
+      <module name="reader" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="440ce36f-b133-4732-aaeb-c297eee2adc1" name="Default Changelist" comment="" />
+      <created>1605726462615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605726462615</updated>
+      <workItem from="1605726465430" duration="26488000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="763" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1605799302963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="763" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1024.728@0.0.1920.1040" timestamp="1605799302963" />
+    <state width="1348" height="266" key="GridCell.Tab.0.bottom" timestamp="1605813973145">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1348" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1024.728@0.0.1920.1040" timestamp="1605813973145" />
+    <state width="1348" height="266" key="GridCell.Tab.0.center" timestamp="1605813973145">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1348" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1024.728@0.0.1920.1040" timestamp="1605813973145" />
+    <state width="1348" height="266" key="GridCell.Tab.0.left" timestamp="1605813973145">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1348" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1024.728@0.0.1920.1040" timestamp="1605813973145" />
+    <state width="1348" height="266" key="GridCell.Tab.0.right" timestamp="1605813973145">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1348" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1024.728@0.0.1920.1040" timestamp="1605813973145" />
+    <state width="1348" height="328" key="GridCell.Tab.1.bottom" timestamp="1605813340607">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1348" height="328" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1024.728@0.0.1920.1040" timestamp="1605813340607" />
+    <state width="1348" height="328" key="GridCell.Tab.1.center" timestamp="1605813340607">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1348" height="328" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1024.728@0.0.1920.1040" timestamp="1605813340607" />
+    <state width="1348" height="328" key="GridCell.Tab.1.left" timestamp="1605813340607">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1348" height="328" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1024.728@0.0.1920.1040" timestamp="1605813340607" />
+    <state width="1348" height="328" key="GridCell.Tab.1.right" timestamp="1605813340607">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1348" height="328" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1024.728@0.0.1920.1040" timestamp="1605813340607" />
+    <state x="665" y="140" key="refactoring.ChangeSignatureDialog" timestamp="1605794135673">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="665" y="140" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.0.1024.728@0.0.1920.1040" timestamp="1605794135673" />
+    <state x="621" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1605793308463">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="621" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1024.728@0.0.1920.1040" timestamp="1605793308463" />
+  </component>
+</project>
